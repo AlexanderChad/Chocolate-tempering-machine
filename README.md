@@ -2,8 +2,8 @@
 Attiny13a + moc3063 + bt139-800e + LM235Z.
 
 ```
-Program Memory Usage 	:	956 bytes   93,4 % Full
-Data Memory Usage 		:	37 bytes   57,8 % Full
+Program Memory Usage  :	956 bytes   93,4 % Full
+Data Memory Usage     :	37 bytes    57,8 % Full
 Build succeeded.
 ========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
 ```
