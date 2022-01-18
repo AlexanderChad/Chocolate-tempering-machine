@@ -1,5 +1,5 @@
 # Chocolate tempering machine (Машина для темперирования шоколада). 
-Attiny13a + moc3043 + bt139-800e + LM235Z.
+Attiny13a + moc3063 + bt139-800e + LM235Z.
 
 ```
 Program Memory Usage 	:	956 bytes   93,4 % Full
